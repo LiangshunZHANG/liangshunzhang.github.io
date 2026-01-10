@@ -1,8 +1,6 @@
-
-
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'awards']
+const section_names = ['home', 'publications', 'awards']  // 将 'awards' 改为 'teaching'
 
 
 window.addEventListener('DOMContentLoaded', event => {
@@ -62,4 +60,32 @@ window.addEventListener('DOMContentLoaded', event => {
             .catch(error => console.log(error));
     })
 
-}); 
+});
+
+section_names.forEach((name, idx) => {
+    console.log(`正在加载: ${content_dir + name + '.md'}`);
+    fetch(content_dir + name + '.md')
+        .then(response => {
+            console.log(`响应状态 (${name}):`, response.status);
+            if (!response.ok) {
+                throw new Error(`无法加载 ${name}.md: ${response.status}`);
+            }
+            return response.text();
+        })
+        .then(markdown => {
+            console.log(`成功加载 ${name}.md, 长度:`, markdown.length);
+            const html = marked.parse(markdown);
+            document.getElementById(name + '-md').innerHTML = html;
+            console.log(`已插入到 #${name}-md 元素`);
+        }).then(() => {
+            // MathJax
+            MathJax.typeset();
+        })
+        .catch(error => {
+            console.error(`加载 ${name}.md 时出错:`, error);
+            document.getElementById(name + '-md').innerHTML = 
+                `<div class="alert alert-warning" role="alert">
+                    无法加载 ${name} 内容: ${error.message}
+                </div>`;
+        });
+});

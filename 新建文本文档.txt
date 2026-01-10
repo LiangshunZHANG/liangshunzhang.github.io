@@ -1,0 +1,11 @@
+方法3：使用 Python 简单服务器
+bash
+# 打开终端/命令提示符，进入项目目录
+
+# Python 3
+python -m http.server 8000
+
+# Python 2
+python -m SimpleHTTPServer 8000
+
+# 然后访问 http://localhost:8000
