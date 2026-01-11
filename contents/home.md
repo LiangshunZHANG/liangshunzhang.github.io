@@ -9,16 +9,19 @@ Ph.D, Materials Science, East China University of Science and Technology, 2004�
 B.S., Polymer Science and Technology,East China University of Science and Technology, 2000—2004.
 
 ### Research Experience
-Postdoc, Komet331, University Mainz, Germany, 2009-2011.\
+Professor, East China University of Science and Technology, China,2020-Now.\
 Associate Professor, East China University of Science and Technology, China,2011-2020.\
-Professor, East China University of Science and Technology, China,2020-Now.
+Postdoc, Komet331, University Mainz, Germany, 2009-2011.
 
 #### Research Interests
-
+<span style="text-align: justify; display: block;">
 Our group is dedicated to developing and applying advanced molecular simulation and machine learning methods to study soft matter systems such as polymers, nanocomposites, and biomacromolecules. We explore the dynamics, thermodynamic behavior, and structural evolution of these systems across various time and length scales, providing theoretical explanations and predictive guidance for experimental observations. Combining theory and simulation, our research addresses a series of soft matter problems ranging from fundamental science to engineering applications, with a special focus on achieving precise control over material properties and structures through rational design.
+</span>
 
 **1. Machine Learning and Data-Driven Design for Soft Matter Materials**  
+<span style="text-align: justify; display: block;">
 We develop and apply machine learning methods, integrating physics-informed and data-driven strategies, to achieve inverse design and optimization of polymer material properties. By employing techniques such as active learning, graph neural networks, large language models, etc., we efficiently explore the material design space and discover new material systems with targeted properties. Our research not only focuses on prediction accuracy but also emphasizes model interpretability, aiming to reveal the structure-property relationships between microscopic structures and macroscopic performance.
+</span>
 
 **Key Questions:**
 - How to accurately predict key properties (e.g., glass transition temperature, mechanical properties) from limited data?
@@ -27,7 +30,9 @@ We develop and apply machine learning methods, integrating physics-informed and 
 - How to achieve inverse design from macroscopic performance to condensed matter structures and molecular structures?
 
 **2. Theoretical Simulation and Dynamics Regulation of Polymer Condensed Matter Structures**  
+<span style="text-align: justify; display: block;">
 We develop multiscale simulation methods to study the phase behavior, self-assembly dynamics, and structural evolution of polymer systems such as block copolymers and organic/inorganic composites. We pay special attention to the regulatory mechanisms of external fields on self-assembly processes and how to achieve long-range ordered nanostructures through kinetic pathway design.
+</span>
 
 **Key Questions:**
 - How to design kinetic pathways to achieve long-range ordered nanostructures with controlled defects?
@@ -36,7 +41,9 @@ We develop multiscale simulation methods to study the phase behavior, self-assem
 - How to design polymer topological structures to enhance dielectric and optoelectronic properties of nanocomposites?
 
 **3. DNA-Encoded Programmable Self-Assembly and Biomacromolecular Nanoengineering**  
+<span style="text-align: justify; display: block;">
 Utilizing DNA encoding and biomolecular recognition principles, we develop programmable self-assembly methods to achieve precise and controllable assembly of nanoparticles, polymers, and biomacromolecules. By designing DNA sequences and polymer structures, we simulate polymerization-like kinetics to construct hyperbranched nanopolymers, colloidal molecules, and sequence-controlled supracolloidal copolymers. This research direction integrates synthetic chemistry, biophysics, and nanotechnology, providing a novel "bottom-up" strategy for fabricating complex functional nanostructures.
+</span>
 
 **Key Questions:**
 - How to achieve sequence-controlled co-assembly of nanoparticles using DNA encoding?
@@ -45,6 +52,11 @@ Utilizing DNA encoding and biomolecular recognition principles, we develop progr
 - How to combine DNA nanotechnology with polymer chemistry to "synthesize" nanopolymers with complex topological structures?
 
 ---
+
+<details>
+<summary style="cursor: pointer; font-weight: bold; color: #0066cc; padding: 10px; border: 1px solid #ddd; border-radius: 5px;">点击查看中文版本 / Click to view Chinese version</summary>
+
+<div style="padding: 15px; border: 1px solid #ddd; border-top: none; border-radius: 0 0 5px 5px;">
 
 课题组致力于发展和应用先进的分子模拟与机器学习方法，研究聚合物、纳米复合材料及生物大分子等软物质体系。探索这些体系在不同时间和空间尺度下的动力学、热力学行为与结构演化规律，为实验现象提供理论解释和预测指导。课题组的研究工作结合理论与模拟，解决从基础科学到工程应用的软物质问题，特别关注如何通过理性设计实现对材料性能与结构的精确调控。
 
@@ -74,3 +86,6 @@ Utilizing DNA encoding and biomolecular recognition principles, we develop progr
 - 如何模拟并调控超分子聚合的类反应动力学？
 - 如何设计刺激响应性聚合物链，增强DNA功能化纳米粒子的结晶能力？
 - 如何将DNA纳米技术与聚合物化学结合，"合成"具有复杂拓扑结构的纳米聚合物？
+
+</div>
+</details>
