@@ -1,7 +1,7 @@
 
 #### PhD students
 
-- Zhepeng Zhu, 2022-Now, Viscoealasticity Phase Seperation of Inhomogenous Polymers
+- Zhepeng Zhu, 2022-Now, Viscoelasticity Phase Seperation of Inhomogenous Polymers
 
 - Shuo Liu, 2023-Now, DNA-Programmable Self-Assembly of Nanoparticles
 
@@ -11,7 +11,7 @@
 
 - Yifu Deng, 2023-Now, Block Copolymer Nanocomposites under Zone Annealing
 
-- Xiaolei Jin, 2024-Now, Viscoealasticity Phase Seperation of Inhomogenous Polymers
+- Xiaolei Jin, 2024-Now, Viscoelasticity Phase Seperation of Inhomogenous Polymers
 
 - Liwen Wang, 2024-Now, DNA-Programmable Self-Assembly of Star Motifs
 

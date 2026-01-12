@@ -21,17 +21,29 @@
 
 - Tianyun Cai, Qianlin Cai, Jiaping Lin, <strong>Liangshun Zhang</strong>.$^*$ Convergence of DNA Nanotechnology and Polymer Chemistry to 'Synthesize' Nanopolymers with Branching Architectures: A Computational Perspective. _Soft Matter_ 2025, 21, 3803–3813<a href="https://doi.org/10.1039/D5SM00243E" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/d5sm00243e.png" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Wenlong Huang, Bo Jin, Haobing Gong, Nawab Ali, Duoduo Jiang, Tongtong Shan, <strong>Liangshun Zhang</strong>, Jia Tian, $^*$ Weian Zhang.$^*$ A Tumor Microenvironment-Triggered Protein-Binding Near-Infrared-II Theranostic Nanoplatform for Mild-Temperature Photothermal Therapy. _J. Colloid Interface Sci._ 2025, 680, 375–388<a href="https://doi.org/10.1016/j.jcis.2024.11.049" target="_blank" rel="noopener noreferrer">.</a>
 
 - Jiaqi An, Yanlong Ran, Jiaping Lin, <strong>Liangshun Zhang</strong>.$^*$ Prediction of Microstructural Evolution of Multicomponent Polymers by Physics-Informed Neural Networks. _Comput. Mater. Sci._ 2025, 246, 113502<a href="https://doi.org/10.1016/j.commatsci.2024.113502" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/j.commatsci.2024.113502.jpg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Huihuang Ma, Yikun Liu, Jianfei Gao, Qunfang Lin, Chuanjie Fan, Xiaodong Zhou, $^*$ <strong>Liangshun Zhang</strong>.$^*$ Interfacial-Engineered Sub-Crystalline Silica Aerogels with Extreme Thermal Anisotropy for Ultrahigh-Energy Laser Protection. _ACS Appl. Mater. Interfaces_ 2025, 17, 40, 56520–56531<a href="https://pubs.acs.org/doi/10.1021/acsami.5c14180" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acsami.5c14180.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 - Xiangfei Ye, Haoxiang Lan, <strong>Liangshun Zhang</strong>, $^*$ Jiaping Lin, $^*$ Yinyi Xu, Lei Du, Xiaohui Tian. Discovery of Trade-Off Performance Frontiers of Cross-Linking Polymers through Artificial Intelligence-Driven Multiobjective Bayesian Optimization. _Chem. Mater._ 2025, 37, 14, 5249–5260<a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00964" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.chemmater.5c00964.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Qianlin Cai, Tianyun Cai, Jiaping Lin, <strong>Liangshun Zhang</strong>.$^*$ Expanding the Toolbox of DNA Supramolecular Polymerization for Hyperbranched Nanopolymers. _Macromolecules_ 2025, 58, 9, 4509–4519<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.5c00606" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.macromol.5c00606.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Xiandeng Qiu, Hao Tang, <strong>Liangshun Zhang</strong>, $^*$ Rong Wang.$^*$ Directional Self-Assembly of Programmable Atom-like Nanoparticles into Colloidal Molecules. _J. Phys. Chem. Lett._ 2025, 16, 12, 3141–3148<a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.5c00056" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.jpclett.5c00056.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 [Back to top ↑](#publications-start)
 
@@ -40,15 +52,25 @@
 
 - Yanlong Ran, Jiaqi An, <strong>Liangshun Zhang</strong>.$^*$ Inference of Constitutive Relation of Phase-Separated Polymers by Integrating Physics-Informed Neural Networks and Symbolic Regression. _Macromol. Chem. Phys._ 2024, 225, 2400184<a href="https://doi.org/10.1002/macp.202400184" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/macp.202400184.png" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Haimeng Yu, Shaoshuai Liu, Haiyan Fu, Zepeng Cui, <strong>Liangshun Zhang</strong>, Jia Tian.$^*$ POSS and PAG Dual-Containing Chemically Amplified Photoresists by RAFT Polymerization for Enhanced Thermal Performance and Acid Diffusion Inhibition. _Appl. Sci._ 2024, 14, 7722<a href="https://doi.org/10.3390/app14177722" target="_blank" rel="noopener noreferrer">.</a>
 
 - Xuan Jiang, Xiangfei Ye, <strong>Liangshun Zhang</strong>, $^*$ Jiaping Lin.$^*$ Discovery of Copolymer Resins with Optimal Viscosity–Toughness–Heat Resistance Trade-Offs via the Material Genome Approach. _Chem. Mater._ 2024, 36, 24, 12034–12043<a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.4c02920" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.chemmater.4c02920.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Tao Zeng, Jiaping Lin, <strong>Liangshun Zhang</strong>.$^*$ Enhancement of Mechanical Performance of Nanostructured Materials by Architectural Design of Pentablock Terpolymers. _Macromolecules_ 2024, 57, 16, 7990–8002<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.4c01043" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.macromol.4c01043.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 - Huihuang Ma, Haiyan Liu, Tianxiang Lv, Yiqing Xu, Xiaodong Zhou, $^*$ <strong>Liangshun Zhang</strong>.$^*$ High-Energy Laser Protection Performance of Fibrous Felt-Reinforced Aerogels with Hierarchical Porous Architectures. _ACS Appl. Mater. Interfaces_ 2024, 16, 19, 25568–25580<a href="https://pubs.acs.org/doi/10.1021/acsami.4c02725" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acsami.4c02725.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Wenlin Zhao, Xuemeng Fu, Xinyao Xu, <strong>Liangshun Zhang</strong>, $^*$ Liquan Wang, $^*$ Jiaping Lin, $^*$ Yaxi Hu, Liang Gao, Lei Du, Xiaohui Tian. Design of Multicomponent Thermosetting Polymers with Enhanced Tensile Properties through Active Learning. _Compos. Sci. Technol._ 2024, 256, 110779<a href="https://doi.org/10.1016/j.compscitech.2024.110779" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/j.compscitech.2024.110779.jpg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 [Back to top ↑](#publications-start)
 
@@ -57,25 +79,43 @@
 
 - <strong>Liangshun Zhang</strong>.$^*$ Long-Range Ordered Nanostructures of Assembling Macromolecules via Rational Design of Kinetic Pathways: A Computational Perspective. _Chin. J. Polym. Sci._ 2023, 41, 1318–1328<a href="https://doi.org/10.1007/s10118-023-2942-2" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/s10118-023-2942-2.png" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Kai-Hua Zhang, Ying Jiang, $^*$ <strong>Liangshun Zhang</strong>.$^*$ Inferring the Physics of Structural Evolution of Multicomponent Polymers via Machine-Learning-Accelerated Method. _Chin. J. Polym. Sci._ 2023, 41, 1377–1385<a href="https://doi.org/10.1007/s10118-023-2891-9" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/s10118-023-2891-9.png" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Yanyan Zhu, Changhang Huang, <strong>Liangshun Zhang</strong>, $^*$ David Andelman, $^*$ Xingkun Man.$^*$ The Process-Directed Self-Assembly of Block Copolymer Particles. _Macromol. Rapid Commun._ 2023, 44, 2300176<a href="https://doi.org/10.1002/marc.202300176" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/marc.202300176.jpg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 - Peng Xie, Weifeng Yan, Hongyu Ji, Haochen He, <strong>Liangshun Zhang</strong>, Hongliang Cao. Emulsion-Directed Synthesis of Poly-Porphyrin Nanoparticles as Heterogeneous Photocatalysts for PET-RAFT Polymerization. _Macromol. Rapid Commun._ 2023, 44, 2300336<a href="https://doi.org/10.1002/marc.202300336" target="_blank" rel="noopener noreferrer">.</a>
 
 - Boyu Zhang, Jiaping Lin, Lei Du, <strong>Liangshun Zhang</strong>.$^*$ Harnessing Data Augmentation and Normalization Preprocessing to Improve the Performance of Chemical Reaction Predictions of Data-Driven Model. _Polymers_ 2023, 15, 2224<a href="https://doi.org/10.3390/polym15092224" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/polym15092224.png" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Shuhe Wei, Yan Xiao, $^*$ Hanwen Jiang, Frédéric Héraly, <strong>Liangshun Zhang</strong>, Wanyi Huang, Jiayin Yuan, $^*$ Meidong Lang.$^*$ Polypeptide-Based Vapor-Responsive Porous Poly(Ionic Liquid) Actuators: From Reversible to Unexpectedly Irreversible Actuation. _Mater. Today Commun._ 2023, 35, 105878<a href="https://doi.org/10.1016/j.mtcomm.2023.105878" target="_blank" rel="noopener noreferrer">.</a>
 
 - Junyang Hu, Zean Li, Jiaping Lin, <strong>Liangshun Zhang</strong>.$^*$ Prediction and Interpretability of Glass Transition Temperature of Homopolymers by Data-Augmented Graph Convolutional Neural Networks. _ACS Appl. Mater. Interfaces_ 2023, 15, 46, 54006–54017<a href="https://pubs.acs.org/doi/10.1021/acsami.3c13698" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acsami.3c13698.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Yixin Zhang, Hao Tang, Junwei Zhou, <strong>Liangshun Zhang</strong>, $^*$ Rong Wang.$^*$ Designing Multimodal ON–OFF Nanoswitches of DNA-Functionalized Nanoparticles by Stimuli-Responsive Polymers. _J. Phys. Chem. B_ 2023, 127, 37, 8049–8056<a href="https://pubs.acs.org/doi/10.1021/acs.jpcb.3c04409" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.jpcb.3c04409.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 - Qingshu Dong, Xiangrui Gong, Kangrui Yuan, Ying Jiang, $^*$ <strong>Liangshun Zhang</strong>, $^*$ Weihua Li.$^*$ Inverse Design of Complex Block Copolymers for Exotic Self-Assembled Structures Based on Bayesian Optimization. _ACS Macro Lett._ 2023, 12, 3, 401–407<a href="https://pubs.acs.org/doi/10.1021/acsmacrolett.3c00020" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acsmacrolett.3c00020.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Yutong Tang, Tianyun Cai, Jiaping Lin, <strong>Liangshun Zhang</strong>.$^*$ Precise Control over Positioning and Orientation of Nanorods in Block Copolymer Nanocomposites via Regulation of Coassembly Pathways. _Macromolecules_ 2023, 56, 5, 2123–2136<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.2c01996" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.macromol.2c01996.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Yixin Zhang, Hao Tang, Rong Wang, $^*$ <strong>Liangshun Zhang</strong>.$^*$ Enhancing Crystallization of DNA-Functionalized Nanoparticles by Polymer Chains. _Macromolecules_ 2023, 56, 3, 1189–1198<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.2c02120" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.macromol.2c02120.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 [Back to top ↑](#publications-start)
 
@@ -84,11 +124,17 @@
 
 - Zhanwen Xu, Qingshu Dong, <strong>Liangshun Zhang</strong>, $^*$ Weihua Li.$^*$ Enhanced Dielectric Permittivity of Hierarchically Double-Gyroid Nanocomposites via Macromolecular Engineering of Block Copolymers. _Nanoscale_ 2022, 14, 15275–15280<a href="https://doi.org/10.1039/D2NR04516H" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/d2nr04516h.png" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Qiankun Ma, Wulong Wang, <strong>Liangshun Zhang</strong>, Hongliang Cao. RAFT Polymerization of Semifluorinated Monomers Mediated by a NIR Fluorinated Photocatalyst. _Macromol. Rapid Commun._ 2022, 43, 2200122<a href="https://doi.org/10.1002/marc.202200122" target="_blank" rel="noopener noreferrer">.</a>
 
 - Yanyan Zhu, Bin Zheng, <strong>Liangshun Zhang</strong>, David Andelman, $^*$ Xingkun Man.$^*$ Formation of Diblock Copolymer Nanoparticles: Theoretical Aspects. _Giant_ 2022, 10, 100101<a href="https://doi.org/10.1016/j.giant.2022.100101" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/j.giant.2022.100101.jpg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Tianyun Cai, Shuochen Zhao, Jiaping Lin, <strong>Liangshun Zhang</strong>.$^*$ Kinetically Programming Copolymerization-like Coassembly of Multicomponent Nanoparticles with DNA. _ACS Nano_ 2022, 16, 10, 15907–15916<a href="https://pubs.acs.org/doi/10.1021/acsnano.2c02867" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acsnano.2c02867.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 [Back to top ↑](#publications-start)
 
@@ -103,11 +149,19 @@
 
 - Shuochen Zhao, Tianyun Cai, <strong>Liangshun Zhang</strong>, $^*$ Weihua Li, $^*$ Jiaping Lin.$^*$ Autonomous Construction of Phase Diagrams of Block Copolymers by Theory-Assisted Active Machine Learning. _ACS Macro Lett._ 2021, 10, 5, 598–602<a href="https://pubs.acs.org/doi/10.1021/acsmacrolett.1c00133" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acsmacrolett.1c00133.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Zhanwen Xu, Jiaping Lin, $^*$ <strong>Liangshun Zhang</strong>, Liquan Wang. Distinctive Dielectric Permittivity of Hierarchical Nanostructures with Ordered Nanoparticle Networks Self-Assembled from AB-g-NP/AC Block Copolymer Mixtures. _Nano Lett._ 2021, 21, 7, 2982–2988<a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.1c00122" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.nanolett.1c00122.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 - Jiabin Gu, Runrong Zhang, <strong>Liangshun Zhang</strong>, $^*$ Jiaping Lin.$^*$ Epitaxial Assembly of Nanoparticles in a Diblock Copolymer Matrix: Precise Organization of Individual Nanoparticles into Regular Arrays. _Macromolecules_ 2021, 54, 5, 2561–2573<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.1c00028" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.macromol.1c00028.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Tianyi Hu, Yongzhi Ren, $^*$ <strong>Liangshun Zhang</strong>, $^*$ Weihua Li.$^*$ Impact of Architecture of Symmetric Block Copolymers on the Stability of a Dislocation Defect. _Macromolecules_ 2021, 54, 2, 773–782<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.0c01654" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.macromol.0c01654.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 [Back to top ↑](#publications-start)
 
@@ -116,15 +170,23 @@
 
 - 李小霞, 谷梦鑫, <strong>张良顺</strong>, $^*$ 林嘉平.$^*$ 双亲性DNA嵌段共聚物胶束构建超结构的模拟研究. 高分子学报 2020, 51, 1257–1266<a href="https://www.gfzxb.org/zh/article/doi/10.11777/j.issn1000-3304.2020.20078/" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/j.issn1000-3304.2020.20078.jpg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Zhengmin Tang, Da Li, Jiaping Lin, $^*$ <strong>Liangshun Zhang</strong>, Chunhua Cai, $^*$ Yuan Yao, Chunming Yang, Xiaohui Tian. Self-Assembly of Rod-Coil Block Copolymers on a Substrate into Micrometer-Scale Ordered Stripe Nanopatterns. _Polym. Chem._ 2020, 11, 7487–7496<a href="https://doi.org/10.1039/D0PY01404D" target="_blank" rel="noopener noreferrer">.</a>
 
 - Liang Gao, Rui Hu, Pengfei Xu, Jiaping Lin, $^*$ <strong>Liangshun Zhang</strong>, Liquan Wang.$^*$ Supramolecular Cyclization of Semiflexible Cylindrical Micelles Assembled from Rod-Coil Graft Copolymers. _Nanoscale_ 2020, 12, 296–305<a href="https://doi.org/10.1039/C9NR07930K" target="_blank" rel="noopener noreferrer">.</a>
 
 - Siyu Ji, Runrong Zhang, <strong>Liangshun Zhang</strong>, $^*$ Yuan Yuan, Jiaping Lin. Self-Assembled Nanostructures of Diblock Copolymer Films under Homopolymer Topcoats. _Polym. Int._ 2020, 69, 8, 728–736<a href="https://doi.org/10.1002/pi.6009" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/pi.6009.jpg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Yingqing Lu, Jiaping Lin, $^*$ Liquan Wang, <strong>Liangshun Zhang</strong>, $^*$ Chunhua Cai. Self-Assembly of Copolymer Micelles: Higher-Level Assembly for Constructing Hierarchical Structure. _Chem. Rev._ 2020, 120, 9, 4111–4140<a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00774" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.chemrev.9b00774.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Jiabin Gu, Runrong Zhang, <strong>Liangshun Zhang</strong>, $^*$ Jiaping Lin.$^*$ Harnessing Zone Annealing to Program Directional Motion of Nanoparticles in Diblock Copolymers: Creating Periodically Well-Ordered Nanocomposites. _Macromolecules_ 2020, 53, 6, 2111–2122<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.0c00101" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.macromol.0c00101.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 [Back to top ↑](#publications-start)
 
@@ -143,13 +205,23 @@
 
 - Hongbing Gao, Xiaodong Ma, Jiaping Lin, $^*$ Liquan Wang, Chunhua Cai, $^*$ <strong>Liangshun Zhang</strong>, Xiaohui Tian. Synthesis of Nanowires via Temperature-Induced Supramolecular Step-Growth Polymerization. _Macromolecules_ 2019, 52, 20, 7731–7739<a href="https://pubs.acs.org/doi/10.1021/acs.macromol.9b01358" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.macromol.9b01358.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Wenheng Xu, Zhanwen Xu, Chunhua Cai, $^*$ Jiaping Lin, $^*$ Shengmiao Zhang, <strong>Liangshun Zhang</strong>, Shaoliang Lin, Yuan Yao, Huimin Qi. Ordered Surface Nanostructures Self-Assembled from Rod–Coil Block Copolymers on Microspheres. _J. Phys. Chem. Lett._ 2019, 10, 20, 6375–6381<a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.9b02606" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acs.jpclett.9b02606.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 - Mengxin Gu, Xiaodong Ma, <strong>Liangshun Zhang</strong>, $^*$ Jiaping Lin.$^*$ Reversible Polymerization-like Kinetics for Programmable Self-Assembly of DNA-Encoded Nanoparticles with Limited Valence. _J. Am. Chem. Soc._ 2019, 141, 41, 16408–16415<a href="https://pubs.acs.org/doi/10.1021/jacs.9b07919" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/jacs.9b07919.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Liang Gao, Jiaping Lin, $^*$ <strong>Liangshun Zhang</strong>, Liquan Wang.$^*$ Living Supramolecular Polymerization of Rod–Coil Block Copolymers: Kinetics, Origin of Uniformity, and Its Implication. _Nano Lett._ 2019, 19, 3, 2032–2036<a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.9b00163" target="_blank" rel="noopener noreferrer">.</a>
 
+<img src="/static/assets/TOC/acs.nanolett.9b00163.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
+
 - Xiaodong Ma, Mengxin Gu, <strong>Liangshun Zhang</strong>, $^*$ Jiaping Lin, $^*$ Xiaohui Tian. Sequence-Regulated Supracolloidal Copolymers via Copolymerization-Like Coassembly of Binary Mixtures of Patchy Nanoparticles. _ACS Nano_ 2019, 13, 2, 1968–1976<a href="https://pubs.acs.org/doi/10.1021/acsnano.8b08431" target="_blank" rel="noopener noreferrer">.</a>
+
+<img src="/static/assets/TOC/acsnano.8b08431.jpeg" alt="TOC image" style="display: block; margin: 15px auto; width: 400px; max-width: 100%; height: auto; border: 1px solid #eee; border-radius: 4px;">
 
 [Back to top ↑](#publications-start)
 
